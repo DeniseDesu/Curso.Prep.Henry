@@ -1,0 +1,24 @@
+Variables
+
+Las variables son como cajas. Permiten que se guarden allí cosas (valores).
+Las variables pueden estar en un principio vacías e ir llenandose a medida que se ejecuta el código.
+
+Strings
+
+Se le dice String a un texto. Puede ser una letra, una oración, un párrafo, etc.
+
+
+Funciones (argumentos, return)
+
+Las funciones son instrucciones para hacer algo repetidas veces. Evita que tengamos que repetir el mismo código una y otra vez.
+Es como una receta de cocina, se sabe que si mezclamos ciertos ingredientes (argumentos) al final obtendremos algo para comer (return).
+
+Declaraciones if
+
+Con las declaraciones if podemos realizar una acción si se cumplen las condiciones y una acción diferente si no se cumplen.
+Es como venir caminando por un camino y de repente poder seguir derecho, doblar a la izquierda o a la derecha. Si (if) quiero ir a la playa (condición), sigo el camino de la izquierda. Si quiero ir a la montaña, siguo el camino de la derecha. Pero si quiero seguir mi camino (else), continúo caminando derecho.
+
+Valores booleanos (true, false)
+
+True y False significan verdadeo y falso.
+Es el resultado que obtenemos de hacer preguntas como: "2 es un número?" sabemos que eso verdadero, pero si preguntamos "La vacas vuelan?" sabemos que es falso sin dudas.
