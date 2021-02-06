@@ -1,0 +1,3 @@
+Arrays
+
+Los arrays son como una fila de lockers. Cada locker tiene una posición, que en el caso de los arrays comienza a contarse desde 0, y puede tener o no cosas guardadas, que equivalen a los valores que toma el array en cada posición.
