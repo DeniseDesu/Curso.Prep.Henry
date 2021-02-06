@@ -1,0 +1,31 @@
+for
+
+El bucle for se puede pensar como una bolsa llena de caramelos.
+Suponiendo que se quiera vaciar la bolsa, podríamos usar el for para sacar de a un caramelo a la vez hasta llegar a 10. Al llegar a este valor, la bolsa quedaría vacía y ya no se seguiría ejecutando el for.
+
+&&
+
+Simboliza un "y". Se tienen que cumplir ambas condiciones para que de verdadero.
+
+Ejemplo:
+
+"El cielo es azul" y "los perros ladran". Ambos son oraciones veraderas y por lo tanto toda la expresión lo es.
+
+
+||
+
+Simboliza un "o". Se tiene que cumplir una de las dos condiciones para que de verdadero.
+
+Ejemplo:
+
+"El cielo es azul" o "los perros vuelan". Por solo decir una sola oración veradera, todo se vuelve verdadero.
+
+!
+
+Simboliza una contradicción. Es este caso va a dar como resultado lo opuesto de lo que digamos.
+
+Ejemplo:
+
+Si decimos "Sí", al usar el ! dará por resultado un "No".
+Si decimos "verdadero", al usar el ! dará por resultado un "falso".
+
