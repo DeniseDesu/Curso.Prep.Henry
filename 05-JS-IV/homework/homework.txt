@@ -1,0 +1,17 @@
+Objetos, Propiedades y Métodos
+
+Los objetos son cosas que tienen ciertas características (propiedades) y que pueden realizar acciones (métodos).
+
+Por ejemplo, un objeto "Perro" tiene características como: cantidad de patas, color de pelo, etc y puede realizar acciones como ladrar, caminar, etc.
+
+Bucle for…in
+
+Este bucle es una versión especial del clásico for para ser usado con objetos.
+Lo que hace es "navegar" por cada una de las propuestades que se encuentra en el objeto.
+
+
+Notación de puntos vs notación de corchetes
+
+Ambas notaciones cumplen el mismo fin, que es obtener valor de una propiedad.
+
+La diferencia está en que en la notación de corchetes podemos usar una variable que contenga el nombre de la propiedad, mientras que en la notación de puntos nos vemos obligados a escribir de forma literal el nombre de la propiedad.
