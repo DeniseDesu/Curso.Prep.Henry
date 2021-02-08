@@ -1,0 +1,8 @@
+prototype
+
+Los prototypes son los métodos propies de los objetos.
+Por ejemplo, si tomamos el objeto "humano" los prototypes que vienen por defecto con ese objeto son: caminar, hablar, escuchar, etc. Y uno podría usar la propiedad del prototype para agregarle cosas adicionales como "Tocar un instrumento".
+
+Constructors (de Clases)
+
+Los constructors son plantillas. A partir de estas plantillas se pueden crear (instanciar) nuevos objetos que van a heredar las propiedades presentes en estas plantillas, y a su vez redefinirlas para ajustarse a lo que se necesite.
