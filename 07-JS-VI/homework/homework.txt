@@ -1,0 +1,7 @@
+Callback
+
+Callback es una función que se ejecuta dentro de otra función.
+
+Se puede pensar como si se hiciera una llamada por teléfono y en lugar de esperar a que alguien atienda, se deja un mensaje pidiendo que te respondan al número desde el que se llama.
+
+De esta manera, se puede seguir haciendo otras cosas hasta recibir la llamada con la respuesta.
